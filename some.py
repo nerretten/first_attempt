@@ -1,1 +1,4 @@
-print('Super')
+for i in range(10):
+    print('Super')
+
+
